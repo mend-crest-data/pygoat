@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pygoat
+  annotations:
+    github.com/project-slug: mend-crest-data/pygoat
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
