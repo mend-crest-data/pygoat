@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: pygoat
+  namespace: mend-crest-data
   annotations:
     github.com/project-slug: mend-crest-data/pygoat
 spec:
